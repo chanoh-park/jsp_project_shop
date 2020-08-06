@@ -27,7 +27,7 @@ public class MemberDaoInsertTest extends HttpServlet {
     public MemberDaoInsertTest() {
         super();
         // TODO Auto-generated constructor stub
-    }
+    } 
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
